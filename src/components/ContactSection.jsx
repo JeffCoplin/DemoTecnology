@@ -5,7 +5,7 @@ const contactItems = [
   {
     icon: 'chat',
     label: 'WhatsApp',
-    value: '+1 (809) 123-4567',
+    value: '+00 (000) 000-0000',
     href: `https://wa.me/${WHATSAPP_NUMBER}`,
     color: 'text-[#25D366]',
     bg: 'bg-[#25D366]/10',
@@ -13,7 +13,7 @@ const contactItems = [
   {
     icon: 'location_on',
     label: 'Ubicación',
-    value: 'Santo Domingo, República Dominicana',
+    value: 'Tu Ciudad, Tu País',
     href: null,
     color: 'text-secondary',
     bg: 'bg-secondary/10',

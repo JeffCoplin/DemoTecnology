@@ -18,12 +18,11 @@ export default function Footer() {
                 <span className="material-symbols-outlined text-white text-base">devices</span>
               </div>
               <span className="font-headline font-bold text-lg tracking-tight">
-                Technology<span className="text-secondary-container">Store</span>
-                <span className="text-tertiary-container"> RD</span>
+                Tu<span className="text-secondary-container">Tienda</span>
               </span>
             </div>
             <p className="font-body text-white/50 text-sm leading-relaxed">
-              Tu tienda de tecnología de confianza en República Dominicana. Productos originales, mejores precios.
+              Tu tienda de confianza. Productos originales con los mejores precios del mercado.
             </p>
             <div className="flex gap-3 mt-2">
               {['instagram', 'facebook', 'twitter'].map((social) => (
@@ -68,7 +67,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-white/40 text-xs font-body">
-          <p>© {new Date().getFullYear()} Technology Store RD. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()} Tu Tienda. Todos los derechos reservados.</p>
           <div className="flex gap-4">
             <a href="#" className="hover:text-white/70 transition-colors">Privacidad</a>
             <a href="#" className="hover:text-white/70 transition-colors">Términos</a>

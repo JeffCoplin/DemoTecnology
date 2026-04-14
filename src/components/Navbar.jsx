@@ -32,7 +32,7 @@ export default function Navbar({ cartCount, onCartOpen }) {
               <span className="material-symbols-outlined text-white text-base">devices</span>
             </div>
             <span className="font-headline font-bold text-on-surface text-lg tracking-tight">
-              Technology<span className="text-secondary">Store</span><span className="text-tertiary"> RD</span>
+              Tu<span className="text-secondary">Tienda</span>
             </span>
           </Link>
 

@@ -57,7 +57,7 @@ export default function TrustSection() {
             Tu satisfacción es nuestra prioridad
           </h2>
           <p className="font-body text-on-surface-variant mt-4 max-w-xl mx-auto">
-            Llevamos años ayudando a dominicanos a conseguir la mejor tecnología al mejor precio.
+            Llevamos años ayudando a nuestros clientes a conseguir la mejor tecnología al mejor precio.
           </p>
         </motion.div>
 
@@ -108,7 +108,7 @@ export default function TrustSection() {
               </div>
               <div className="text-left">
                 <p className="font-headline font-semibold text-white text-sm">María R.</p>
-                <p className="font-body text-white/60 text-xs">Santo Domingo, RD</p>
+                <p className="font-body text-white/60 text-xs">Cliente satisfecho</p>
               </div>
               <div className="ml-2 flex gap-0.5">
                 {[...Array(5)].map((_, i) => (

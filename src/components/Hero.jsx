@@ -36,7 +36,7 @@ export default function Hero() {
             className="flex items-center gap-2 w-fit bg-secondary/10 text-secondary px-4 py-1.5 rounded-full text-sm font-medium"
           >
             <span className="material-symbols-outlined text-base">bolt</span>
-            Entrega rápida en República Dominicana
+            Entrega rápida a todo el país
           </motion.div>
 
           <motion.h1

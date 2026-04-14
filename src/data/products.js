@@ -226,7 +226,7 @@ export const products = [
   },
 ];
 
-export const WHATSAPP_NUMBER = '18091234567';
+export const WHATSAPP_NUMBER = '10000000000';
 
 export function getWhatsAppLink(productName) {
   const message = encodeURIComponent(`Hola, quiero este producto: ${productName}`);

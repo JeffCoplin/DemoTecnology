@@ -5,7 +5,7 @@ const contactItems = [
   {
     icon: 'chat',
     label: 'WhatsApp',
-    value: '+1 (809) 123-4567',
+    value: '+00 (000) 000-0000',
     href: `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent('Hola, quiero información')}`,
     color: 'text-[#25D366]',
     bg: 'bg-[#25D366]/10',
@@ -14,11 +14,11 @@ const contactItems = [
   {
     icon: 'location_on',
     label: 'Ubicación',
-    value: 'Santo Domingo, República Dominicana',
+    value: 'Tu Ciudad, Tu País',
     href: null,
     color: 'text-secondary',
     bg: 'bg-secondary/10',
-    description: 'Envíos a todo el territorio nacional.',
+    description: 'Envíos a todo el país.',
   },
   {
     icon: 'schedule',
@@ -36,7 +36,7 @@ const contactItems = [
     href: null,
     color: 'text-secondary',
     bg: 'bg-secondary/10',
-    description: 'Express disponible para Santo Domingo.',
+    description: 'Entrega express disponible.',
   },
 ];
 
@@ -51,7 +51,7 @@ const faqs = [
   },
   {
     q: '¿Cuánto tarda la entrega?',
-    a: 'Entregamos en 24-48 horas en todo el país. Para Santo Domingo ofrecemos entrega express el mismo día.',
+    a: 'Entregamos en 24-48 horas. También ofrecemos entrega express el mismo día en tu ciudad.',
   },
   {
     q: '¿Aceptan tarjetas de crédito?',
